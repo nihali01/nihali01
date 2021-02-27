@@ -1,10 +1,3 @@
-
-
-<!--
-**nihali01/nihali01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Nihali Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -22,7 +15,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nihalisahu12345@gmail.com**
 
-- ⚡ Fun fact **I love to spent more time on web development**
+- ⚡ Fun fact **Always trying to figure out stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,4 +33,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nihali01&show_icons=true&locale=en" alt="nihali01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihali01&" alt="nihali01" /></p>
-
